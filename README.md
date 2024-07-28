@@ -4,8 +4,8 @@ Hello! I'm passionate about data science, machine learning, and computer vision.
 
 ## About Me
 
-- **Skills**: Python, OpenCV, Computer Vision
-- **Interests**: Data Science, Machine Learning, Computer Vision
+- **Skills**: Python, OpenCV, Computer Vision.
+- **Interests**: Data Science, Machine Learning, Computer Vision.
 - **Passion**: Leveraging data to build intelligent systems and solve real-world problems.
 
 ## Get in Touch
