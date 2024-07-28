@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hello! I'm passionate about data science, machine learning, and computer vision. I enjoy working with Python and OpenCV to create innovative solutions and projects.
+Hello! I'm Rajeev passionate about data science, machine learning, and computer vision. I enjoy working with Python and OpenCV to create innovative solutions and projects.
 
 ## About Me
 
